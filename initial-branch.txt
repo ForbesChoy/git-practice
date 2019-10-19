@@ -3,3 +3,7 @@ hello world
 more changes!!
 
 branch changes!!!
+
+-b is go to branch; different from create branch
+-u connect local to remote (online). do that once, then only use git push
+   afterwards, no more git push -u origin other-branch
